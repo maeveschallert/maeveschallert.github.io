@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Running", "Theory", "Apple", "Generalities", "Implicaitons", "Person"];
+var things = ["", "", "", "", "", ""];
 var programmers = ["runner", "teacher", "picker", "nihilist", "engineer", "existance"]
 var castles = ["orchard", "space", "building"]
 var exertions = ["movement", "attempt", "stationary", "trouble", "lift-off", "moderation", "labor"];
